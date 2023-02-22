@@ -26,10 +26,11 @@ Pet log will be a full crud application where you can log and track the growth o
 | /logs/:id | DELETE | deletes a post based on id |
 
 # Trello Board
-TRELLO BOARD
+
+https://trello.com/invite/b/z1Aelja2/ATTI25a93af6fe70eb313dd8c5cf63c290e36CD2C1CD/pet-log
 
 # Wire Frames
 (https://i.imgur.com/9KTgnte.png) (https://i.imgur.com/3Wjv65D.png)
 
 # Link to Project
-Render Deploy
+[Render Deploy](https://pet-planner-backend.onrender.com)
