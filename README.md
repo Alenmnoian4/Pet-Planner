@@ -30,7 +30,10 @@ Pet log will be a full crud application where you can log and track the growth o
 https://trello.com/invite/b/z1Aelja2/ATTI25a93af6fe70eb313dd8c5cf63c290e36CD2C1CD/pet-log
 
 # Wire Frames
-![image](https://user-images.githubusercontent.com/116233849/220703812-133ab782-3e6d-4eb1-bded-6f9d3bac6141.png) (https://i.imgur.com/3Wjv65D.png)
+![image](https://user-images.githubusercontent.com/116233849/220703812-133ab782-3e6d-4eb1-bded-6f9d3bac6141.png) 
+
+![image](https://user-images.githubusercontent.com/116233849/220703939-b251491f-2e15-449c-8a4b-5288cd1cb7e6.png)
+
 
 # Link to Project
 [Render Deploy](https://pet-planner-backend.onrender.com)
