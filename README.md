@@ -9,14 +9,14 @@ PostSQL #JavaScript #React Router Dom #React JS #Postman #Render #Trello #Figma
 
 # The Route Table
 
-Route	Element	Loader	Action	Summary
-/	Home	indexLoader		
-/logs	index	indexLoader		returns all posts
-/logs/:id	show	logShowLoader		returns single log
-/logs/create			logCreateAction	creates log
-/logs/update			logUpdateAction	update log
-/logs/delete			logDeleteAction	deletes log
-Trello Board
+# Endpoint	Method	Description
+router.get('/')	GET	returns all sessions
+router.get('/:id')	GET	returns a single session
+router.post('/')	POST	creates a new session
+router.put('/:id')	PUT	updates a specific session
+router.delete('/:id')	DELETE	deletes a specific session
+
+# Trello Board
 TRELLO BOARD
 
 # Wire Frames
