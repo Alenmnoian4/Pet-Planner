@@ -14,6 +14,11 @@ Pet log will be a full crud application where you can log and track the growth o
 -Trello 
 -Figma
 
+# MODEL SCHEMA
+
+![image](https://user-images.githubusercontent.com/116233849/220826020-27837478-9fda-476e-8bbb-40fd38b38c4d.png)
+
+
 # The Route Table
 
 ## The Route Table
